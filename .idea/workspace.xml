@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="072cc7f1-2e28-4ad1-9761-2f8b84b68544" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="072cc7f1-2e28-4ad1-9761-2f8b84b68544" name="Default Changelist" comment="new theme">
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/development/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/development/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/development/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/golang/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/golang/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/golang/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/golang/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/creating-a-new-theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/creating-a-new-theme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/goisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/goisforlovers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/hugoisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/hugoisforlovers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/migrate-from-jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/migrate-from-jekyll/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/development/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/development/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/development/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/go/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/go/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/go/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/go/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/go/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/golang/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/golang/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/golang/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/golang/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/hugo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hugo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/hugo/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/hugo/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/hugo/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/templates/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/templates/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/templates/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/templates/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/themes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/themes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/themes/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/themes/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/themes/page/1/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +95,7 @@
       <updated>1616653167114</updated>
       <workItem from="1616653168544" duration="588000" />
       <workItem from="1616654256543" duration="1485000" />
-      <workItem from="1616659719100" duration="940000" />
+      <workItem from="1616659719100" duration="1326000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1616654410499</created>
@@ -105,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616660194716</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new theme">
+      <created>1616661170549</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616661170549</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +192,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="new theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="new theme" />
   </component>
 </project>
