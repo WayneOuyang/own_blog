@@ -29,6 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -46,7 +47,7 @@
       <updated>1616653167114</updated>
       <workItem from="1616653168544" duration="588000" />
       <workItem from="1616654256543" duration="1485000" />
-      <workItem from="1616659719100" duration="271000" />
+      <workItem from="1616659719100" duration="940000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1616654410499</created>
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616657775571</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial commit">
+      <created>1616660194716</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616660194716</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
